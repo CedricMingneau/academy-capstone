@@ -12,5 +12,5 @@ def get_secrets():
     return response
 
 
-pp = pprint.PrettyPrinter(indent=4)
-pp.pprint(get_secrets())
+# pp = pprint.PrettyPrinter(indent=4)
+# pp.pprint(get_secrets())
